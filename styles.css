@@ -1,0 +1,13 @@
+nav {
+	background-color: orange;
+}
+
+section {
+	background-color: grey;
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	border: solid orange 2px;
+}
+
+
